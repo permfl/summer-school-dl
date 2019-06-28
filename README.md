@@ -1,2 +1,4 @@
 # summer-school-dl
-how to get started with dl
+
+Full examples:
+https://github.com/keras-team/keras/tree/master/examples
